@@ -1,0 +1,41 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top-nav{
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding: 34px 120px 24px 120px;
+
+}
+
+.body-container{
+    display: flex;
+    width: 100px;
+    height: 700px;
+    align-items: center;
+    padding: 0 120px;
+    background-color: black;
+    color: blue;
+}
+.top-button{
+height: 48px;
+width: 120px;
+border-radius: 8px;
+outline: none;
+border: none;
+color: orangered;
+background-color: aqua;
+font-weight: bold;
+}
+p{
+    margin-bottom: 24px;
+    margin-top: 24px;
+}
+
